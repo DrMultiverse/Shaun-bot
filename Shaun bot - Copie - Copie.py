@@ -6,7 +6,7 @@ angry=['Lea was a jerk.','I was pushed off a surgery.','Dr. Glassman is not pick
 sad=['a surgery went badly.','a baby died.','Lea did not want to be my girlfriend.','I had a meltdown']
 happy=['a surgery went well.','I am getting the opportunity to assist on a rare surgery.','Lea and I are going to get married!','Dr. Glassman and I had pancakes for breakfast this morning.']
 
-TOKEN = 'OTQ5MzcyMTg1MDk1NTg5OTI5.YiJZvw.fHnh1c5yTJ9cQFFV22MKQ2nz40c'
+TOKEN = 'classified because I got an aggressive dm from discord >:0'
 
 client = discord.Client()
 
